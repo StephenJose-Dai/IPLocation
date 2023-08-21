@@ -52,3 +52,4 @@ country_reader.close()
 city_reader.close()
 
 print("结果已保存。")
+root.mainloop()
