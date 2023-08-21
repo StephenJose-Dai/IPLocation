@@ -37,3 +37,8 @@ pip install geoip2
 python search.py
 ````
 4、根据提示输入ASN、Country、City数据库的路径和名字以及IP文件的路径和名字，然后选择要保存结果的路径和名字即可
+
+
+## 扫一扫二维码关注我学习更多知识吧~
+
+![戴戴的Linux](https://github.com/StephenJose-Dai/IPLocation/blob/master/daidailinux.jpg)
